@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hexo博客搭建教程</title>
-    <url>/_post/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</url>
+    <url>//Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<h1 id="基于hexo框架的博客搭建教程"><a href="#基于hexo框架的博客搭建教程" class="headerlink" title="基于hexo框架的博客搭建教程"></a><strong>基于hexo框架的博客搭建教程</strong></h1><h2 id="第一步-安装Node-js环境"><a href="#第一步-安装Node-js环境" class="headerlink" title="第一步 安装Node.js环境"></a>第一步 安装Node.js环境</h2><p>1.node.js官网链接”<a href="https://nodejs.org/zh-cn/&quot;">https://nodejs.org/zh-cn/&quot;</a></p>
 <h2 id="第二步-安装hexo框架"><a href="#第二步-安装hexo框架" class="headerlink" title="第二步 安装hexo框架"></a>第二步 安装hexo框架</h2><p>1.在命令行里输入npm install hexo-cli -g</p>
 <h2 id="第三步-初始化博客"><a href="#第三步-初始化博客" class="headerlink" title="第三步 初始化博客"></a>第三步 初始化博客</h2><p>1.依次在命令行里输入1 hexo init blog<br>2 cd blog<br>3 npm install</p>
@@ -15,7 +15,7 @@
   </entry>
   <entry>
     <title>Windows11安卓子系统安装教程</title>
-    <url>/_post/win11%E5%AE%89%E5%8D%93%E5%AD%90%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</url>
+    <url>//win11%E5%AE%89%E5%8D%93%E5%AD%90%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<h1 id="Windows11安卓子系统安装教程"><a href="#Windows11安卓子系统安装教程" class="headerlink" title="Windows11安卓子系统安装教程"></a><strong>Windows11安卓子系统安装教程</strong></h1><h2 id="第一步-将你的地区切换至美国"><a href="#第一步-将你的地区切换至美国" class="headerlink" title="第一步 将你的地区切换至美国"></a>第一步 将你的地区切换至美国</h2><p>1.打开设置-时间和语言-语言和区域<br>2.将国家和地区切换为美国</p>
 <h2 id="第二步-安装亚马逊商店"><a href="#第二步-安装亚马逊商店" class="headerlink" title="第二步 安装亚马逊商店"></a>第二步 安装亚马逊商店</h2><p>1.打开微软商店搜索并下载Amazon Appstore</p>
 <h2 id="第三步-重启"><a href="#第三步-重启" class="headerlink" title="第三步 重启"></a>第三步 重启</h2><h2 id="第四步-安装apk安装器"><a href="#第四步-安装apk安装器" class="headerlink" title="第四步 安装apk安装器"></a>第四步 安装apk安装器</h2><p>1.微软商店下载任意apk安装器</p>
