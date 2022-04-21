@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo博客搭建教程</title>
+    <url>/_post/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="基于hexo框架的博客搭建教程"><a href="#基于hexo框架的博客搭建教程" class="headerlink" title="基于hexo框架的博客搭建教程"></a><strong>基于hexo框架的博客搭建教程</strong></h1><h2 id="第一步-安装Node-js环境"><a href="#第一步-安装Node-js环境" class="headerlink" title="第一步 安装Node.js环境"></a>第一步 安装Node.js环境</h2><p>1.node.js官网链接”<a href="https://nodejs.org/zh-cn/&quot;">https://nodejs.org/zh-cn/&quot;</a></p>
+<h2 id="第二步-安装hexo框架"><a href="#第二步-安装hexo框架" class="headerlink" title="第二步 安装hexo框架"></a>第二步 安装hexo框架</h2><p>1.在命令行里输入npm install hexo-cli -g</p>
+<h2 id="第三步-初始化博客"><a href="#第三步-初始化博客" class="headerlink" title="第三步 初始化博客"></a>第三步 初始化博客</h2><p>1.依次在命令行里输入1 hexo init blog<br>2 cd blog<br>3 npm install</p>
+<h2 id="第四步-启动本地博客服务（本地进行实验）"><a href="#第四步-启动本地博客服务（本地进行实验）" class="headerlink" title="第四步 启动本地博客服务（本地进行实验）"></a>第四步 启动本地博客服务（本地进行实验）</h2><p>1.在命令行里输入hexo s</p>
+<h2 id="第五步-部署到Github"><a href="#第五步-部署到Github" class="headerlink" title="第五步 部署到Github"></a>第五步 部署到Github</h2><p>1.Github创建一个新的仓库 YourGithubName.github.io<br>2.npm install hexo-deployer-git –save 在blog目录下安装git部署插件<br>git config –global user.email xxx<br>git config –global user.name “xxx”配置git<br>3.配置_config.yml<br>    # Deployment<br>    ## Docs: “<a href="https://hexo.io/docs/deployment.html/&quot;">https://hexo.io/docs/deployment.html/&quot;</a><br>    deploy:<br>      type: git<br>      repo: “<a href="https://github.com/YourGithubName/YourGithubName.github.io.git/&quot;">https://github.com/YourGithubName/YourGithubName.github.io.git/&quot;</a><br>      branch: master<br>4.命令行输入hexo clean以及hexo g<br>5.部署到Github仓库里hexo d<br>6.访问这个地址可以查看博客”<a href="https://yourgithubname.github.io/&quot;">https://YourGithubName.github.io/&quot;</a></p>
+]]></content>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Windows11安卓子系统安装教程</title>
     <url>/_post/win11%E5%AE%89%E5%8D%93%E5%AD%90%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<h1 id="Windows11安卓子系统安装教程"><a href="#Windows11安卓子系统安装教程" class="headerlink" title="Windows11安卓子系统安装教程"></a><strong>Windows11安卓子系统安装教程</strong></h1><h2 id="第一步-将你的地区切换至美国"><a href="#第一步-将你的地区切换至美国" class="headerlink" title="第一步 将你的地区切换至美国"></a>第一步 将你的地区切换至美国</h2><p>1.打开设置-时间和语言-语言和区域<br>2.将国家和地区切换为美国</p>
@@ -9,19 +22,6 @@
 <h2 id="第五步-开启子系统开发人员选项"><a href="#第五步-开启子系统开发人员选项" class="headerlink" title="第五步 开启子系统开发人员选项"></a>第五步 开启子系统开发人员选项</h2><p>1.开始里找到适用于Android的Windows子系统设置<br>2.开启开发人员选项</p>
 <h2 id="第六步-安装软件"><a href="#第六步-安装软件" class="headerlink" title="第六步 安装软件"></a>第六步 安装软件</h2><p>1.打开先前下载的apk安装器<br>2.安装准备好的安装包（这里推荐安装酷安，后续软件下载及更新会更方便）</p>
 <h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>对微软向移动端的妥协，我本身是感到悲哀的，但同时，这个子系统也为我提供了极大的便利。<br>一些没有电脑端或电脑端是被阉割的软件，也可以通过子系统来实现运行直接跑手机版。<br>在这个移动设备为主要电子产品的时代，无疑PC正在逐渐走向小众。<br>以前，手机只不过是一个通讯设备。<br>现在，手机开始拥有各种各样的功能，甚至有了PC没有的功能。<br>未来，手机将会集成PC的所有的功能，没有的功能，将PC彻底赶出大众的视野。<br>PC的落幕或许并不是一件坏事，它代表人类的科技更进一步，信息时代的下一个纪元。<br>未来，或许会出现更多的比手机更加优秀的设备，它们也将取代手机。<br>哪怕未来真的出现了植入人体的高度集成化电子设备，实现真正的人机结合，我仍会铭记所属于信息时代的开端。<br>PS：拥有触屏功能的屏幕可以更为和谐地体验子系统。</p>
-]]></content>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo博客搭建教程</title>
-    <url>/_post/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<h1 id="基于hexo框架的博客搭建教程"><a href="#基于hexo框架的博客搭建教程" class="headerlink" title="基于hexo框架的博客搭建教程"></a><strong>基于hexo框架的博客搭建教程</strong></h1><h2 id="第一步-安装Node-js环境"><a href="#第一步-安装Node-js环境" class="headerlink" title="第一步 安装Node.js环境"></a>第一步 安装Node.js环境</h2><p>1.node.js官网链接”<a href="https://nodejs.org/zh-cn/&quot;">https://nodejs.org/zh-cn/&quot;</a></p>
-<h2 id="第二步-安装hexo框架"><a href="#第二步-安装hexo框架" class="headerlink" title="第二步 安装hexo框架"></a>第二步 安装hexo框架</h2><p>1.在命令行里输入npm install hexo-cli -g</p>
-<h2 id="第三步-初始化博客"><a href="#第三步-初始化博客" class="headerlink" title="第三步 初始化博客"></a>第三步 初始化博客</h2><p>1.依次在命令行里输入1 hexo init blog<br>2 cd blog<br>3 npm install</p>
-<h2 id="第四步-启动本地博客服务（本地进行实验）"><a href="#第四步-启动本地博客服务（本地进行实验）" class="headerlink" title="第四步 启动本地博客服务（本地进行实验）"></a>第四步 启动本地博客服务（本地进行实验）</h2><p>1.在命令行里输入hexo s</p>
-<h2 id="第五步-部署到Github"><a href="#第五步-部署到Github" class="headerlink" title="第五步 部署到Github"></a>第五步 部署到Github</h2><p>1.Github创建一个新的仓库 YourGithubName.github.io<br>2.npm install hexo-deployer-git –save 在blog目录下安装git部署插件<br>git config –global user.email xxx<br>git config –global user.name “xxx”配置git<br>3.配置_config.yml<br>    # Deployment<br>    ## Docs: “<a href="https://hexo.io/docs/deployment.html/&quot;">https://hexo.io/docs/deployment.html/&quot;</a><br>    deploy:<br>      type: git<br>      repo: “<a href="https://github.com/YourGithubName/YourGithubName.github.io.git/&quot;">https://github.com/YourGithubName/YourGithubName.github.io.git/&quot;</a><br>      branch: master<br>4.命令行输入hexo clean以及hexo g<br>5.部署到Github仓库里hexo d<br>6.访问这个地址可以查看博客”<a href="https://yourgithubname.github.io/&quot;">https://YourGithubName.github.io/&quot;</a></p>
 ]]></content>
       <tags>
         <tag>教程</tag>
